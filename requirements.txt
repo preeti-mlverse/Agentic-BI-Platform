@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+sqlalchemy
+nltk
+pillow
+langchain==0.1.16
+langchain-community>=0.0.32
+langchain-core>=0.1.0
+langchain-experimental
+langchain-anthropic
+python-dotenv
